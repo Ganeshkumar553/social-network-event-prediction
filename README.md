@@ -1,6 +1,6 @@
-# 🔥 Predicting Hot Events in the Early Period Through Bayesian Model for Social Networks
+ Predicting Hot Events in the Early Period Through Bayesian Model for Social Networks
 
-## 📌 Overview
+##  Overview
 
 "Predicting Hot Events in the Early Period Through Bayesian Model for Social Networks" is a final-year academic project that aims to identify viral or "hot" events in their early stages on social media platforms using a Bayesian statistical model. 
 
@@ -8,7 +8,7 @@ This project is built using Java (J2EE) for the backend, MySQL for data storage,
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze early engagement metrics (likes, shares, comments)
 - Predict the probability of an event going viral using Bayesian inference
@@ -16,7 +16,7 @@ This project is built using Java (J2EE) for the backend, MySQL for data storage,
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 | Layer        | Technologies Used                            |
 |--------------|-----------------------------------------------|
