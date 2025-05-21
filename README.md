@@ -1,4 +1,4 @@
- Predicting Hot Events in the Early Period Through Bayesian Model for Social Networks
+ **Predicting Hot Events in the Early Period Through Bayesian Model for Social Networks**
 
 ##  Overview
 
